@@ -1,5 +1,6 @@
 # JOBLOG
-![JOBLOG_MAIN](/uploads/7fd63e4ff87dc173fb01ab9392cee637/JOBLOG_MAIN.PNG)
+![image](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/58660479-ae5e-4f68-b13e-779cca865230)
+
 
 ## 목차
 [1️. 개요](#1️⃣-개요)<br>
@@ -29,7 +30,7 @@
 <br><br>
 
 # 2️⃣ 팀원 소개
-|![정휘원](/uploads/22a5a783edead303fbcd7ced34249136/정휘원.png)|![박시연](/uploads/db4e69215316ef52b10a202cdc77996d/박시연.png)|![방소영](/uploads/d005208653bd789b73784afca51939de/방소영.png)|![김보경](/uploads/24414d1039e5ef0f00cacc36ac4fc20f/김보경.png)|![이현영](/uploads/93fb371a9278fcf97c02548a73357848/이현영.png)|![이희병](/uploads/5d7201d3ce00122a9f8c7c46156a52fd/이희병.png)|
+|![image](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/18b6d48d-1e32-4375-b289-f31bfab620fe)|![image](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/4f968870-52e4-462a-8982-ed3359f69e3a)|![image](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/c7d0ce53-8dec-4738-be29-d63fec38ecaf)|![image](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/f57bf88b-1875-49d5-b446-e2b7cc0e8643)|![image](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/7d7217a6-80c9-468c-866e-a392d9166f1b)|![image](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/01e75b43-6b0d-410b-a711-003beb1ec58e)|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |정휘원|박시연|방소영|김보경|이현영|이희병|
 |FrontEnd & Leader|FrontEnd|Infra|BackEnd|BackEnd|BackEnd|
@@ -108,29 +109,29 @@
 
 # 4️⃣ 서비스 화면
 ### 🌈 로그인
-![로그인](/uploads/3a320412fbb0f98ae43beba2f4f3364b/로그인.gif)
+![로그인](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/76e80ee6-1d76-4d1e-836c-d8cd1f474010)
 ### 🌈 공고 검색 및 상세
-![공고_검색_및_상세](/uploads/493cf41b423ed34e74a90834cd3aa6bc/공고_검색_및_상세.gif)
+![공고_검색_및_상세](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/91af74d3-adcc-4e15-ac4b-2e77eba6c4fa)
 ### 🌈 공고 등록
-![공고등록](/uploads/ad63502d8945fd02ba3665ff43e54ecf/공고등록.gif)
+![공고등록](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/7e66df18-aff9-4e49-a737-a930dc8b9006)
 ### 🌈 자기소개서 문항 작성
-![자기소개서_문항_작성](/uploads/8ef7e1988867dc7b633383f6f07db1ec/자기소개서_문항_작성.gif)
+![자기소개서_문항_작성](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/c375d4e6-4a36-4c79-98e3-fdefe1fab2ca)
 ### 🌈 자기소개서 문항 편집
-![자기소개서_문항_편집](/uploads/ee94a67427d8e1eda9ac0387748da28f/자기소개서_문항_편집.gif)
+![자기소개서_문항_편집](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/334ea836-d475-402b-b9fe-3683c15d5d1a)
 ### 🌈 전형 생성
-![전형_생성](/uploads/a5b9dfe792d646a2852b8d0b0efae186/전형_생성.gif)
+![전형_생성](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/16f753e4-0cb8-46ca-8b52-53bdb820af14)
 ### 🌈 전형 전용 이력서 생성
-![전형_전용_이력서_생성](/uploads/e89a683365d569b04006ae163e23d097/전형_전용_이력서_생성.gif)
+![전형_전용_이력서_생성](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/e2bc2b2d-bb53-42a4-ab7d-816be04309e2)
 ### 🌈 전형 리뷰 생성
-![전형_리뷰_생성](/uploads/7690cacc88f02af92a4c125ea4d69a7a/전형_리뷰_생성.gif)
+![전형_리뷰_생성](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/7bebc0ac-575b-4346-a748-48e9641ff8e2)
 ### 🌈 입사지원서 작성 및 다운
-![입사지원서_작성_및_다운](/uploads/b2af2b1dcb7b92773c638cfcd8e8d0a2/입사지원서_작성_및_다운.gif)
+![입사지원서_작성_및_다운](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/2f2c2c3a-bd83-431f-8aba-3d235c3eb8c7)
 ### 🌈 다이어리
-![다이어리](/uploads/8945dde7d98d3c11c49fbaeb39f58297/다이어리.gif)
+![다이어리](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/77171eda-6b51-4d7e-b892-ff681109fee1)
 ### 🌈 커뮤니티
-![커뮤니티](/uploads/fbba7bb609f29cb0a936cb103f1e91ae/커뮤니티.gif)
+![커뮤니티](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/ac04cb42-a039-4d2e-97be-a788a3d66130)
 ### 🌈 설정
-![설정](/uploads/ad96ca09ecf7a3c1b8411999f49b35e5/설정.gif)
+![설정](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/815e93f5-479c-4ac5-8a3b-0053ccc5864e)
 
 # 5️⃣ 주요 기능
 ### 📌 개인 맞춤 채용일정 관리
@@ -180,10 +181,11 @@
 
 # 7️⃣ 설계 문서
 ### 📂 Swagger
-![JOBLOG_SWAGGER](/uploads/05374104564a44f82a3a720905c54ea4/JOBLOG_SWAGGER.PNG)
+<img src="https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/e2cb4f0c-d9a2-4bc1-800f-4f4e7168ac7a" width="400" />
+<img src="https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/8c282012-8f9c-47f1-9eda-6a90d15f5a12" width="400" />
 
 ### 📂 ERD
-![JOBLOG_ERD](/uploads/ec59e000d92562feeccac88c31605502/JOBLOG_ERD.png)
+![image](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/013c6d53-ebec-40ad-9ea0-abb42fc0fd7e)
 
 ### 📂 서비스 아키텍처
-![아키텍처](/uploads/d44811c0ee260fe0e1ee7809ca5a1446/아키텍처.png)
+![image](https://github.com/hyun0-25/SSAFY-JOBLOG/assets/95136913/91965060-8288-44de-bebd-fd76f0317da1)
